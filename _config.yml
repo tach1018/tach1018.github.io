@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "profile.png"
   name             : "Cheng Tang"
   pronouns         : # example: "she/her"  
   bio              : "senior student major in mathematics and applied mathematics"
