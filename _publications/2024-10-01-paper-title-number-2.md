@@ -1,6 +1,6 @@
 ---
 title: "Policy-regularized Offline Safe Reinforcement Learning with Preference Aligned Sampling"
-collection: publications
+collection: projects
 category: projects
 permalink: /publication/2024-10-01-paper-title-number-2
 excerpt: 'This project is about offline Safe reinforcement learning. Work was done when Cheng in CMU.'
