@@ -1,13 +1,22 @@
 ---
-title: "Robust Offline Reinforcement Learning with Linearly Structured f-Divergence Regularization"
+title: "Policy-regularized Offline Safe Reinforcement Learning with Preference Aligned Sampling"
 collection: projects
 category: manuscripts
 permalink: /publication/2024-10-01-paper-title-number-2.md
-excerpt: 'This paper is about offline Safe reinforcement learning'
+excerpt: 'This project is about offline Safe reinforcement learning. Work was done when cheng in CMU.'
 date: 2024-10-15
-venue: 'preprint'
 slidesurl: 
 paperurl: 'http://tangchengtsinghua.github.io/files/Policy-regularized%20Offfine%20Safe%20Reinforcement%20Learning%20with%20Preference.pdf'
 ---
 
-The Distributionally Robust Markov Decision Process (DRMDP) is a popular framework for addressing dynamics shift in reinforcement learning by learning policies robust to the worst-case transition dynamics within a constrained set. However, solving its dual optimization oracle poses significant challenges, limiting theoretical analysis and computational efficiency. The recently proposed Robust Regularized Markov Decision Process (RRMDP) replaces the uncertainty set constraint with a regularization term on the value function, offering improved scalability and theoretical insights. Yet, existing RRMDP methods rely on unstructured regularization, often leading to overly conservative policies by considering transitions that are unrealistic. To address these issues, we propose a novel framework, the d-rectangular linear robust regularized Markov decision process (d-RRMDP), which introduces a linear latent structure into both transition kernels and regularization. For the offline RL setting, where an agent learns robust policies from a pre-collected dataset in the nominal environment, we develop a family of algorithms, Robust Regularized Pessimistic Value Iteration (R2PVI), employing linear function approximation and f-divergence based regularization terms on transition kernels. We provide instance-dependent upper bounds on the suboptimality gap of R2PVI policies, showing these bounds depend on how well the dataset covers state-action spaces visited by the optimal robust policy under robustly admissible transitions. This term is further shown to be fundamental to d-RRMDPs via information-theoretic lower bounds. Finally, numerical experiments validate that R2PVI learns robust policies and is computationally more efficient than methods for constrained DRMDPs
+Offfine safe reinforcement learning (RL) aims to learn a safe and relatively rewarding policy with a
+precollected dataset. One prevalent method to deal with this problem is offfine policy-regularized
+method, which typically incorporates a behavior cloning mechanism into the policy learning to
+regularize the learned policy stay close enough to the behavior policy, hence mitigates the distribution
+shift challenge. However, this framework may suffer from suboptimality of behavior policy due to
+the imbalanced dataset. In this work, we propose DIAM (distribution aligned sampling), a preference
+aligned sampling method customized for policy-regularized offfine safe algorithms. Comprehensive
+evaluation in various tasks illustrates the ability of DIAM in optimizing the behavior policy, hence
+beneffts policy-regularized offfine safe algorithms. DIAM shows superiority compared to other
+model-centric method and data-centric method, making it more applicable and universal, even with
+simple structure.
