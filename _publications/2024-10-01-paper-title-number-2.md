@@ -3,7 +3,7 @@ title: "Policy-regularized Offline Safe Reinforcement Learning with Preference A
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-paper-title-number-2
-excerpt: 'This paper is about offline Safe reinforcement learning.'
+excerpt: 'This paper is about offline safe reinforcement learning.'
 date: 2024-10-15
 venue: 'Project done in CMU'
 slidesurl: 'http://tangchengtsinghua.github.io/files/safeRLslides.pdf'
