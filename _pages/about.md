@@ -14,4 +14,4 @@ In my senior year, I was honored to visit Carnegie Mellon University as a resear
 News
 ======
 
-My paper about robust offline regularized RL get accepted in ICML 2025! Congradulations to all our collaborators!
+My paper about robust offline regularized RL is accepted in ICML 2025! Congradulations to all our collaborators!
