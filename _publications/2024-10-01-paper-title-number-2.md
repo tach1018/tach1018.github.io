@@ -6,8 +6,8 @@ permalink: /publication/2024-10-01-paper-title-number-2
 excerpt: 'This paper is about offline safe reinforcement learning.'
 date: 2024-10-15
 venue: 'Project done in CMU'
-slidesurl: 'http://tangchengtsinghua.github.io/files/safeRLslides.pdf'
-paperurl: 'http://tangchengtsinghua.github.io/files/Policy-regularized%20Offfine%20Safe%20Reinforcement%20Learning%20with%20Preference.pdf'
+slidesurl: 'http://tach1018.github.io/files/safeRLslides.pdf'
+paperurl: 'http://tach1018.github.io/files/Policy-regularized%20Offfine%20Safe%20Reinforcement%20Learning%20with%20Preference.pdf'
 
 ---
 
