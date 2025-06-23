@@ -13,6 +13,8 @@ My research interest currently focuses on **Reinforcement Learning** and **Robus
 
 News
 ======
+- **[2025/06]** I am thrillied to graduate from Tsinghua University and be selected as speech representative of
+graduates at the School of Economics and Management!
 
 - **[2025/05]** My paper about robust offline regularized RL is accepted in ICML 2025! Congratulations to all our collaborators! See you in Vancouver!
 
