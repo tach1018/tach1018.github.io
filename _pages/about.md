@@ -23,4 +23,4 @@ Education
 ======
 - Ph.D. in Computer Science, University of Illinois Urbana-Champaign, 2025-Present
 
-- B.S. in Mathematics \| B.Ec. in Economics and Finance, Tsinghua University, 2021-2024
+- B.S. in Mathematics \| B.Ec. in Economics and Finance, Tsinghua University, 2021-2025

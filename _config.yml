@@ -24,11 +24,11 @@ author:
   avatar           : "me.png"
   name             : "Cheng Tang"
   pronouns         : # example: "she/her"  
-  bio              : "senior student major in mathematics and applied mathematics"
-  location         : "Beijing China"
-  employer         : "Tsinghua University"
+  bio              : "upcoming student in UIUC"
+  location         : "Urbana, Illinois, USA"
+  employer         : "UIUC"
   uri              : # URL
-  email            : "c-tang21@mails.tsinghua.edu.cn" 
+  email            : "chengt6@illinois.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
