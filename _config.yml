@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Cheng Tang's homepage"
+title                    : "🍊's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Cheng Tang"
   pronouns         : # example: "she/her"  
   bio              : "upcoming student in UIUC"
-  location         : "Urbana, Illinois, USA"
+  location         : "Champaign, Illinois, USA"
   employer         : "UIUC"
   uri              : # URL
   email            : "chengt6@illinois.edu" 
