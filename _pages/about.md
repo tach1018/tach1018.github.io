@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Cheng Tang, a PhD student at Siebel School of Computing and Data Science, UIUC. 
+Hi, I am Cheng Tang, a PhD student at the [Siebel School of Computing and Data Science, UIUC](https://siebelschool.illinois.edu/). 
 My research interest currently focuses on **Reinforcement Learning** and **Robustness**, both from theoretical and empirical aspect. I hope to design algorithms that are not only practical but also with strong theoretical guarantee. I am very fortunate to work with Professor [Pan Xu](https://panxulab.github.io/) in Duke University and Professor [Ding Zhao](https://www.meche.engineering.cmu.edu/directory/bios/zhao-ding.html) in Carnegie Mellon University during my undergraduate studies. 
 
 News
