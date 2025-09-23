@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about offline robust reinforcement learning under function approximation'
 date: 2025-5-02
-venue: 'Published on ICML'
+venue: 'Published on ICML, Neurips ML×OR Workshop'
 slidesurl: 'http://tach1018.github.io/files/RRMDP_slides.pdf'
 paperurl: 'https://arxiv.org/abs/2411.18612'
 citation: 'Cheng Tang, Zhishuai Liu and Pan Xu. Robust Offline Reinforcement Learning with Linearly Structured f-Divergence Regularization. arXiv preprint 2411.18612, 2024.'
