@@ -12,6 +12,9 @@ My research interest currently focuses on **Reinforcement Learning** and **Robus
 
 News
 ======
+
+- **[2025/06]** My paper is accepted in is accepted in Neurips 2025 ML×OR Workshop! Congratulations to all our collaborators! See you in San Diego!
+
 - **[2025/06]** I’m thrilled to be graduating from Tsinghua University and honored to be chosen as the graduation speech representative for the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/info/1021/9207.htm)!
 
 - **[2025/05]** My [paper](https://icml.cc/virtual/2025/poster/45863) about robust offline regularized RL is accepted in ICML 2025! Congratulations to all our collaborators! See you in Vancouver!
