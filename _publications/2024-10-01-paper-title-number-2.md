@@ -11,7 +11,7 @@ paperurl: 'http://tach1018.github.io/files/Policy-regularized%20Offfine%20Safe%2
 
 ---
 
-Offfine safe reinforcement learning (RL) aims to learn a safe and relatively rewarding policy with a
+Offline safe reinforcement learning (RL) aims to learn a safe and relatively rewarding policy with a
 precollected dataset. One prevalent method to deal with this problem is offfine policy-regularized
 method, which typically incorporates a behavior cloning mechanism into the policy learning to
 regularize the learned policy stay close enough to the behavior policy, hence mitigates the distribution
