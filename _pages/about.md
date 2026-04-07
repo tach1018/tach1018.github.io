@@ -13,6 +13,8 @@ My research interest currently focuses on **Reinforcement Learning** and **Robus
 News
 ======
 
+- **[2026/04]** One paper is accepted in ACL findings! Congratulations to all our collaborators!
+
 - **[2025/09]** My paper is accepted in Neurips 2025 ML×OR Workshop! Congratulations to all our collaborators!
 
 - **[2025/06]** I’m thrilled to be graduating from Tsinghua University and honored to be chosen as the graduation speech representative for the [School of Economics and Management](https://www.sem.tsinghua.edu.cn/en/info/1021/9207.htm)!
