@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'This paper is about medical report generation'
 date: 2026-4-19
 venue: 'Published on ACL Findings'
-citation: 'Weijie Liang*, Xiyue Zhu*†, Ruike Zhu, Chenhao Li, Cheng Tang, Zhiyu Liu, Zhihua Gong, Shirui Luo, Yudu Li, Volodymyr Kindratenko.'
+citation: 'Weijie Liang, Xiyue Zhu, Ruike Zhu, Chenhao Li, Cheng Tang, Zhiyu Liu, Zhihua Gong, Shirui Luo, Yudu Li, Volodymyr Kindratenko.'
 ---
 
 Medical report generation from medical im-
