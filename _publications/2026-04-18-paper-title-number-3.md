@@ -2,7 +2,7 @@
 title: "MedQPA-Gen: Medical Question Proposing and Answering for Report Generation"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-3
+permalink: /publication/2026-04-18-paper-title-number-3
 excerpt: 'This paper is about applying RL methods on medical report generation'
 date: 2026-4-19
 venue: 'Published on ACL Findings'
