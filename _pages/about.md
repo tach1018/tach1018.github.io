@@ -13,6 +13,9 @@ My research interest currently focuses on **Reinforcement Learning**, both from 
 News
 ======
 
+- **[2026/06]** A new preprint "[Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds](https://ssrn.com/abstract=6928598)" is available. 
+
+
 - **[2026/05]** I am joining Microsoft Research Asia as a research intern, working on RL. Look forward to any opportunity to connect with anyone interested in RL or broadly, sequential decision making in general!
 
 - **[2026/04]** One paper is accepted in ACL findings! Congratulations to all our collaborators!
