@@ -13,6 +13,8 @@ My research interest currently focuses on **Reinforcement Learning**, both from 
 News
 ======
 
+- **[2026/06]** My paper is accepted in NeuRIPS 2026! Congratulations to all our collaborators!
+
 - **[2026/06]** A new preprint "[Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds](https://ssrn.com/abstract=6928598)" is available. 
 
 
